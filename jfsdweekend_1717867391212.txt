@@ -1,0 +1,145 @@
+Agile Menifesto
+
+	Document identifies 4 key values and 12 principles that authors believe all software developers should use to guide their work.
+
+
+4 Values
+	1. Individual and Interactions over processes and tools
+	2. Working software over comprehensive documentaiton
+	3. Customer collaboration over contract negotiation
+	4. Responding to change over following plan
+
+
+12 Principles
+------------
+1. Customer Statisfaction - Achieved through early and continious delivery of valuable software
+
+2. Welcome To Change - Making changes during software development is common and inevitable.
+
+3. Delivery working software frequently - 
+
+4. Collaboration - Business and Developement team work together throughout project
+
+5. Motivation - Build project around motivated individual. Given them environment and support they need and trust them to get the job done.
+
+6. Face-to-face conversion - 
+
+7. Measure progress (as per working software req) - 
+
+8. Maintain constant pace - 
+
+9. Monitering - Continious attention to technical excellence and good design
+
+10. Simplicity - Keep things very simple and use semple terms to measure the work that is not completed.
+
+11. Review work regularly - At regular intervals the team reflects on how to become more effective and then turns and adjusts behavior accordingly.
+
+12. Self organized team - The best architectures, requirements and designs emerge from self organizing team.
+
+
+
+Distadvantages
+	- Not suitable for small development projects
+	- Lack of intensity on necessary designing and documentation
+	- Cost of agile is slightly more than traditioanl SDLC
+
+	
+ - Scrum - 
+ ==============
+
+ 	Scrum is a framework that helps team to work together.
+ 	Scrum encourage team to learn through practice self organize, while working on problem
+
+
+ 	Scrum - focus is on continious improvement (framework)
+ 	
+ 	Sprint -  Product is built in a series of repetition called sprint. It breaks big complex projects into bite-size pieces, and makes project more managable and allow team to deliver frequently.
+
+		15 days or max 30 days
+
+		Sprint are short and time-boxed period for scrum team that works to complete set amount of work.
+
+
+
+ Sprint Roles for stackholders
+ -----------------------
+
+ 	A Scrum Master
+ 		- Facilitators of scrum ceremonies
+ 		- Educate team 
+ 		- Sprint review - Capture feedbacks
+ 		- 1 on 1 discussions - 
+ 		- Reporting - 40 storty point work - 38 story points work
+ 						2 story points will be carry forward to next sprint
+
+
+ 	The Product owner
+ 		- Difining the vision
+ 		- Prioritizing Product backlog (list of User story that needs to be completed)
+ 		- Taking overview of development stage
+ 		- Handles communicatin with customer
+ 		- Knows what client needs
+ 		- Evaluating progress also
+
+
+ 	Development team
+ 		- Group of people that collaborate to create and execute required implementations
+
+
+ Scrum Ceremonies
+ ---------------
+
+	Daily Standup 
+		15 mins
+		What i did yesterday, what i am planning to do today
+		issues / impedements
+
+	Backlog refinement 
+		- PO discuss about all user stories that has been added to product backlog
+
+
+ 	Spring planning
+
+ 		- Estimate tasks -  numbers - 
+ 		-  that in current sprint
+
+	Sprint Review
+		- Demo of the work 
+
+ 	Spring Restrospective 
+ 		- What went wrong
+ 			- Action Points 
+
+ 		- What went good
+
+
+ 	 
+
+ 	
+
+ 	
+Sprint Backlog
+	1
+	2- smaller 3 days	- 2 story point
+	3 - task 7 days		- 7 story point task
+	4
+	5
+
+
+
+Product baklogs				
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
